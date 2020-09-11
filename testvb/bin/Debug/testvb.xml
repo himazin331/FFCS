@@ -1,0 +1,196 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+testvb
+</name>
+</assembly>
+<members>
+<member name="T:testvb.My.Resources.Resources">
+<summary>
+  ローカライズされた文字列などを検索するための、厳密に型指定されたリソース クラスです。
+</summary>
+</member>
+<member name="P:testvb.My.Resources.Resources.ResourceManager">
+<summary>
+  このクラスで使用されているキャッシュされた ResourceManager インスタンスを返します。
+</summary>
+</member>
+<member name="P:testvb.My.Resources.Resources.Culture">
+<summary>
+  すべてについて、現在のスレッドの CurrentUICulture プロパティをオーバーライドします
+  現在のスレッドの CurrentUICulture プロパティをオーバーライドします。
+</summary>
+</member>
+<member name="P:testvb.My.Resources.Resources._1920x1080_08">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:testvb.My.Resources.Resources._1920x1080xd1ab04d99a4f9e07073ba4">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:testvb.My.Resources.Resources._if">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:testvb.My.Resources.Resources.bottom">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:testvb.My.Resources.Resources.bottom1">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:testvb.My.Resources.Resources.enpitu">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:testvb.My.Resources.Resources.handan">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:testvb.My.Resources.Resources.handan1">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:testvb.My.Resources.Resources.head">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:testvb.My.Resources.Resources.head1">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:testvb.My.Resources.Resources.hiwaizyanaiyatu">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:testvb.My.Resources.Resources.if1">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:testvb.My.Resources.Resources.IMG_20180827_152604">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:testvb.My.Resources.Resources.inout">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:testvb.My.Resources.Resources.inout1">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:testvb.My.Resources.Resources.kesigomu">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:testvb.My.Resources.Resources.kesigomu1">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:testvb.My.Resources.Resources.ketugou">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:testvb.My.Resources.Resources.ketugou1">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:testvb.My.Resources.Resources.line">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:testvb.My.Resources.Resources.line1">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:testvb.My.Resources.Resources.main_b7429285_2018_07_04_2">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:testvb.My.Resources.Resources.pen">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:testvb.My.Resources.Resources.seg">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:testvb.My.Resources.Resources.seg1">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:testvb.My.Resources.Resources.stafin">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:testvb.My.Resources.Resources.stafin1">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:testvb.My.Resources.Resources.stafin11">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:testvb.My.Resources.Resources.stafin2">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:testvb.My.Resources.Resources.syori">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:testvb.My.Resources.Resources.syori1">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:testvb.My.Resources.Resources.test">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:testvb.My.Resources.Resources.tesyori">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:testvb.My.Resources.Resources.tesyori1">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+</members>
+</doc>

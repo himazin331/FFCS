@@ -1,0 +1,16 @@
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.2.6_\testvb\bin\Release\testvb.exe.config
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.2.6_\testvb\bin\Release\testvb.exe
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.2.6_\testvb\bin\Release\testvb.pdb
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.2.6_\testvb\bin\Release\testvb.xml
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.2.6_\testvb\obj\Release\testvb.Window.resources
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.2.6_\testvb\obj\Release\testvb.Resources.resources
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.2.6_\testvb\obj\Release\FFCS.vbproj.GenerateResource.cache
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.2.6_\testvb\obj\Release\FFCS.vbproj.CoreCompileInputs.cache
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.2.6_\testvb\obj\Release\testvb.exe
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.2.6_\testvb\obj\Release\testvb.xml
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.2.6_\testvb\obj\Release\testvb.pdb
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.2.6_\testvb\obj\Release\FFCS.vbprojAssemblyReference.cache
+C:\Users\sion2\Desktop\学校関係\VB 第6班（石川遥・星川・松本・吉田紫）\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.2.6_\testvb\obj\Release\FFCS.vbprojAssemblyReference.cache
+C:\Users\sion2\Desktop\学校関係\VB 第6班（石川遥・星川・松本・吉田紫）\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.2.6_\testvb\obj\Release\testvb.exe
+C:\Users\sion2\Desktop\学校関係\VB 第6班（石川遥・星川・松本・吉田紫）\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.2.6_\testvb\obj\Release\testvb.xml
+C:\Users\sion2\Desktop\学校関係\VB 第6班（石川遥・星川・松本・吉田紫）\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.2.6_\testvb\obj\Release\testvb.pdb

@@ -1,0 +1,96 @@
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.1.8\testvb\bin\Debug\testvb.exe.config
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.1.8\testvb\bin\Debug\testvb.exe
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.1.8\testvb\bin\Debug\testvb.pdb
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.1.8\testvb\bin\Debug\testvb.xml
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.1.8\testvb\obj\Debug\testvb.vbprojAssemblyReference.cache
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.1.8\testvb\obj\Debug\testvb.Window.resources
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.1.8\testvb\obj\Debug\testvb.Resources.resources
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.1.8\testvb\obj\Debug\testvb.vbproj.GenerateResource.cache
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.1.8\testvb\obj\Debug\testvb.vbproj.CoreCompileInputs.cache
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.1.8\testvb\obj\Debug\testvb.exe
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.1.8\testvb\obj\Debug\testvb.xml
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.1.8\testvb\obj\Debug\testvb.pdb
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.1.8 - backup\testvb\obj\Debug\testvb.vbprojAssemblyReference.cache
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.1.8 - backup\testvb\obj\Debug\testvb.Window.resources
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.1.8 - backup\testvb\obj\Debug\testvb.Resources.resources
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.1.8 - backup\testvb\obj\Debug\testvb.vbproj.GenerateResource.cache
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.1.8 - backup\testvb\obj\Debug\testvb.vbproj.CoreCompileInputs.cache
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.1.8 - backup\testvb\obj\Debug\testvb.exe
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.1.8 - backup\testvb\obj\Debug\testvb.xml
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.1.8 - backup\testvb\obj\Debug\testvb.pdb
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.1.8 - backup\testvb\bin\Debug\testvb.exe.config
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.1.8 - backup\testvb\bin\Debug\testvb.exe
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.1.8 - backup\testvb\bin\Debug\testvb.pdb
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.1.8 - backup\testvb\bin\Debug\testvb.xml
+C:\Users\sion2\OneDrive\デスクトップ\prototype_v0.1.8 - backup\testvb\obj\Debug\testvb.vbprojAssemblyReference.cache
+C:\Users\sion2\OneDrive\デスクトップ\prototype_v0.1.8 - backup\testvb\obj\Debug\testvb.Window.resources
+C:\Users\sion2\OneDrive\デスクトップ\prototype_v0.1.8 - backup\testvb\obj\Debug\testvb.Resources.resources
+C:\Users\sion2\OneDrive\デスクトップ\prototype_v0.1.8 - backup\testvb\obj\Debug\testvb.vbproj.GenerateResource.cache
+C:\Users\sion2\OneDrive\デスクトップ\prototype_v0.1.8 - backup\testvb\obj\Debug\testvb.vbproj.CoreCompileInputs.cache
+C:\Users\sion2\OneDrive\デスクトップ\prototype_v0.1.8 - backup\testvb\obj\Debug\testvb.exe
+C:\Users\sion2\OneDrive\デスクトップ\prototype_v0.1.8 - backup\testvb\obj\Debug\testvb.xml
+C:\Users\sion2\OneDrive\デスクトップ\prototype_v0.1.8 - backup\testvb\obj\Debug\testvb.pdb
+C:\Users\sion2\OneDrive\デスクトップ\prototype_v0.1.8 - backup\testvb\bin\Debug\testvb.exe.config
+C:\Users\sion2\OneDrive\デスクトップ\prototype_v0.1.8 - backup\testvb\bin\Debug\testvb.exe
+C:\Users\sion2\OneDrive\デスクトップ\prototype_v0.1.8 - backup\testvb\bin\Debug\testvb.pdb
+C:\Users\sion2\OneDrive\デスクトップ\prototype_v0.1.8 - backup\testvb\bin\Debug\testvb.xml
+\\info\it2942$\Desktop\prototype_v0.2.0\prototype_v0.2.0\testvb\bin\Debug\testvb.exe.config
+\\info\it2942$\Desktop\prototype_v0.2.0\prototype_v0.2.0\testvb\bin\Debug\testvb.exe
+\\info\it2942$\Desktop\prototype_v0.2.0\prototype_v0.2.0\testvb\bin\Debug\testvb.pdb
+\\info\it2942$\Desktop\prototype_v0.2.0\prototype_v0.2.0\testvb\bin\Debug\testvb.xml
+\\info\it2942$\Desktop\prototype_v0.2.0\prototype_v0.2.0\testvb\obj\Debug\testvb.vbprojAssemblyReference.cache
+\\info\it2942$\Desktop\prototype_v0.2.0\prototype_v0.2.0\testvb\obj\Debug\testvb.Window.resources
+\\info\it2942$\Desktop\prototype_v0.2.0\prototype_v0.2.0\testvb\obj\Debug\testvb.Resources.resources
+\\info\it2942$\Desktop\prototype_v0.2.0\prototype_v0.2.0\testvb\obj\Debug\testvb.vbproj.GenerateResource.cache
+\\info\it2942$\Desktop\prototype_v0.2.0\prototype_v0.2.0\testvb\obj\Debug\testvb.vbproj.CoreCompileInputs.cache
+\\info\it2942$\Desktop\prototype_v0.2.0\prototype_v0.2.0\testvb\obj\Debug\testvb.exe
+\\info\it2942$\Desktop\prototype_v0.2.0\prototype_v0.2.0\testvb\obj\Debug\testvb.xml
+\\info\it2942$\Desktop\prototype_v0.2.0\prototype_v0.2.0\testvb\obj\Debug\testvb.pdb
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.2.0\testvb\bin\Debug\testvb.exe.config
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.2.0\testvb\bin\Debug\testvb.exe
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.2.0\testvb\bin\Debug\testvb.pdb
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.2.0\testvb\bin\Debug\testvb.xml
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.2.0\testvb\obj\Debug\testvb.vbprojAssemblyReference.cache
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.2.0\testvb\obj\Debug\testvb.Window.resources
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.2.0\testvb\obj\Debug\testvb.Resources.resources
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.2.0\testvb\obj\Debug\testvb.vbproj.GenerateResource.cache
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.2.0\testvb\obj\Debug\testvb.vbproj.CoreCompileInputs.cache
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.2.0\testvb\obj\Debug\testvb.exe
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.2.0\testvb\obj\Debug\testvb.xml
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.2.0\testvb\obj\Debug\testvb.pdb
+C:\Users\sion2\OneDrive\デスクトップ\prototype_v0.2.0 - 繧ｳ繝斐・\testvb\bin\Debug\testvb.exe.config
+C:\Users\sion2\OneDrive\デスクトップ\prototype_v0.2.0 - 繧ｳ繝斐・\testvb\bin\Debug\testvb.exe
+C:\Users\sion2\OneDrive\デスクトップ\prototype_v0.2.0 - 繧ｳ繝斐・\testvb\bin\Debug\testvb.pdb
+C:\Users\sion2\OneDrive\デスクトップ\prototype_v0.2.0 - 繧ｳ繝斐・\testvb\bin\Debug\testvb.xml
+C:\Users\sion2\OneDrive\デスクトップ\prototype_v0.2.0 - 繧ｳ繝斐・\testvb\obj\Debug\testvb.vbprojAssemblyReference.cache
+C:\Users\sion2\OneDrive\デスクトップ\prototype_v0.2.0 - 繧ｳ繝斐・\testvb\obj\Debug\testvb.Window.resources
+C:\Users\sion2\OneDrive\デスクトップ\prototype_v0.2.0 - 繧ｳ繝斐・\testvb\obj\Debug\testvb.Resources.resources
+C:\Users\sion2\OneDrive\デスクトップ\prototype_v0.2.0 - 繧ｳ繝斐・\testvb\obj\Debug\testvb.vbproj.GenerateResource.cache
+C:\Users\sion2\OneDrive\デスクトップ\prototype_v0.2.0 - 繧ｳ繝斐・\testvb\obj\Debug\testvb.vbproj.CoreCompileInputs.cache
+C:\Users\sion2\OneDrive\デスクトップ\prototype_v0.2.0 - 繧ｳ繝斐・\testvb\obj\Debug\testvb.exe
+C:\Users\sion2\OneDrive\デスクトップ\prototype_v0.2.0 - 繧ｳ繝斐・\testvb\obj\Debug\testvb.xml
+C:\Users\sion2\OneDrive\デスクトップ\prototype_v0.2.0 - 繧ｳ繝斐・\testvb\obj\Debug\testvb.pdb
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.2.6\testvb\bin\Debug\testvb.exe.config
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.2.6\testvb\bin\Debug\testvb.exe
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.2.6\testvb\bin\Debug\testvb.pdb
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.2.6\testvb\bin\Debug\testvb.xml
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.2.6\testvb\obj\Debug\testvb.vbprojAssemblyReference.cache
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.2.6\testvb\obj\Debug\testvb.Window.resources
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.2.6\testvb\obj\Debug\testvb.Resources.resources
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.2.6\testvb\obj\Debug\testvb.vbproj.GenerateResource.cache
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.2.6\testvb\obj\Debug\testvb.vbproj.CoreCompileInputs.cache
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.2.6\testvb\obj\Debug\testvb.exe
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.2.6\testvb\obj\Debug\testvb.xml
+K:\it29\VB作品制作\VB 第6班（石川遥・星川・松本・吉田紫）\開発\prototype_v0.2.6\testvb\obj\Debug\testvb.pdb
+C:\Users\sion2\OneDrive\デスクトップ\prototype_v0.2.6\testvb\bin\Debug\testvb.exe.config
+C:\Users\sion2\OneDrive\デスクトップ\prototype_v0.2.6\testvb\bin\Debug\testvb.exe
+C:\Users\sion2\OneDrive\デスクトップ\prototype_v0.2.6\testvb\bin\Debug\testvb.pdb
+C:\Users\sion2\OneDrive\デスクトップ\prototype_v0.2.6\testvb\bin\Debug\testvb.xml
+C:\Users\sion2\OneDrive\デスクトップ\prototype_v0.2.6\testvb\obj\Debug\testvb.vbprojAssemblyReference.cache
+C:\Users\sion2\OneDrive\デスクトップ\prototype_v0.2.6\testvb\obj\Debug\testvb.Window.resources
+C:\Users\sion2\OneDrive\デスクトップ\prototype_v0.2.6\testvb\obj\Debug\testvb.Resources.resources
+C:\Users\sion2\OneDrive\デスクトップ\prototype_v0.2.6\testvb\obj\Debug\testvb.vbproj.GenerateResource.cache
+C:\Users\sion2\OneDrive\デスクトップ\prototype_v0.2.6\testvb\obj\Debug\testvb.vbproj.CoreCompileInputs.cache
+C:\Users\sion2\OneDrive\デスクトップ\prototype_v0.2.6\testvb\obj\Debug\testvb.exe
+C:\Users\sion2\OneDrive\デスクトップ\prototype_v0.2.6\testvb\obj\Debug\testvb.xml
+C:\Users\sion2\OneDrive\デスクトップ\prototype_v0.2.6\testvb\obj\Debug\testvb.pdb
